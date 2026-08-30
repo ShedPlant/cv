@@ -5,6 +5,7 @@ icon: lucide/hand
 # Ed Plant :wave:
 
 ![Profile Picture](assets/headshot.jpg) ![Colleagues](assets/colleagues.jpg)
+
 ![Expend Card](assets/expend_card.jpg) ![Home Office](assets/desk.jpg)
 
 I work at [Expend](https://expend.com) as a Senior Python Developer/Architect.

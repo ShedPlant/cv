@@ -6,10 +6,10 @@ icon: lucide/keyboard
 
 ## Introduction
 
-Ed Plant is a Senior Software Backend Developer / Architect for [Expend](https://expend.com), a UK FinTech software company.
+I, Ed Plant, am a Senior Software Backend Developer / Architect for [Expend](https://expend.com), a UK FinTech software company.
 Previously at [Fidessa](https://iongroup.com/products/markets/fidessa/) working on stock market trading platforms.
 
-I combine the strongest understanding in the team of how things *currently* work, with idealistic opinions of how they *should* work, and map a pathway towards improvement.
+I combine the strongest understanding in the team of how things *currently* work, with idealistic opinions of how they *should* work, and work on continuous improvement.
 
 Technology Stack:
 
@@ -24,11 +24,12 @@ I have been a cautious adopter of AI Coding Assistants, experiencing both benefi
 
 I use Claude Code and have found certain tasks solved impressively competently and quickly.
 
-However, when used by someone inexperienced or confused, who does not already know what 'done' looks like,
+However, when used by someone inexperienced or confused, who does not already know what the desired output looks like,
 it produces false confidence in something plausible-looking but subtly wrong.
 
 I see it as my responsibility to keep my codebase working, clean and coherent for future maintainers (human or AI).
 I don't accept AI as an excuse for ignoring best practices, avoiding critical thinking or accepting poor quality solutions.
+Used well, it can accelerate individuals/teams.
 
 Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a bit but is not the whole solution.
 
@@ -47,9 +48,9 @@ Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a b
 - [x] friendly and personable with colleagues
 - [x] knowledge sharing using diagrams, tables, documents and presentations
 - [x] understand and improve legacy systems, pay down technical debt
-- [ ] dislikes inter-personal conflict, yet stays professional
-- [ ] less experienced with UI/mobile development (not a professional website developer)
-- [ ] less comfortable interacting directly with customers face to face
+- [x] dislikes inter-personal conflict, yet stays professional
+- [ ] less experienced with JS UI/mobile development
+- [ ] less comfortable communicating directly with customers
 
 
 

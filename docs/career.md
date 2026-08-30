@@ -2,7 +2,9 @@
 icon: lucide/keyboard
 ---
 
-# Career Profile
+# Career
+
+## Introduction
 
 Ed Plant is a Senior Software Backend Developer / Architect for [Expend](https://expend.com), a UK FinTech software company.
 Previously at [Fidessa](https://iongroup.com/products/markets/fidessa/) working on stock market trading platforms.
@@ -51,39 +53,39 @@ Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a b
 
 
 
-# Career History
+## Senior Software Architect @ Expend
 
 ???+ success "Senior Software Architect @ Expend"
 
     *5+ years July 2021 - present*
 
-    ## Executive Summary
+    ### Summary
 
     Expend is a UK FinTech expenses software company with hundreds of customers, thousands of users and cards, fewer than ten developers.
 
     In the last five years I've improved Expend's developer experience, platform stability, and increased velocity to implement new customer-facing features.
 
 
-    ## Architecture
+    ### Architecture
 
-    ### Problem
+    #### Problem
 
     I inherited a hybrid architecture which looked superficially like microservices but was monolithic in practice, without getting the advantages of either approach.
 
-    ### Solution
+    #### Solution
 
     With [12 factor app](https://www.12factor.net/) principles in mind, I pulled apart the monolith to distinct projects with clear domain boundaries, and dependencies,
     and better tests to cover the API contracts with other services.
 
-    ### Benefit
+    #### Benefit
     This has improved the developer experience, reduced time between code change and deployment (including mean time to recovery), improved confidence that making a change is safe.
 
-    ## Infrastructure as Code
+    ### Infrastructure as Code
 
-    ### Problem
+    #### Problem
     Cloud resources were maintained manually only by the CTO. No like-live test environment.
 
-    ### Solution
+    #### Solution
 
     I introduced Pulumi as our Infrastructure as Code tool:
 
@@ -92,25 +94,25 @@ Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a b
     - imported existing cloud resources
     - deployed a new AWS staging environment
 
-    ### Benefit
+    #### Benefit
     This has made our environment more robust and scalable. Anyone in the team can make changes to cloud resources with confidence, and it's trivial to deploy new projects.
 
-    ## CICD
+    ### CICD
 
-    ### Problem
+    #### Problem
 
     Our CI/CD was using an expensive software vendor, while being poorly understood and temperamental.
 
-    ### Solution
+    #### Solution
 
     I migrated our CI/CD from an expensive software vendor to GitHub Actions.
 
-    ### Benefit
+    #### Benefit
     Cheaper, simpler, better understood. Less responsibility of running our own runner infrastructure.
 
     To be fair, GitHub's own uptime has got worse in the last year or two.
 
-    ## Feature Development
+    ### Feature Development
 
     I am also a big contributor to new feature development.
     For example, in 2025-26 I led the effort to integrate with a new Card Issuer partner.
@@ -121,6 +123,7 @@ Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a b
 
     The migration to the new Card provider has gone smoothly with only minor bugs found in the back-end implementation.
 
+## Previous Roles
 
 ??? success "Trading Platform Deployment Team Lead @ Fidessa"
 
@@ -190,7 +193,7 @@ Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a b
     Configured, customised and upgraded trading platform applications.
 
 
-# Education
+## Education
 
 ??? success "IT Consultancy MSc Distinction @ University of Kent"
 

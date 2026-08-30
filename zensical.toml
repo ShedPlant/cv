@@ -12,7 +12,7 @@ copyright = "Copyright &copy; 2026 Edward Plant"
 
 nav = [
   { "Overview" = "index.md" },
-  { "Career History" = "career.md" },
+  { "Career" = "career.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
@@ -50,7 +50,7 @@ features = [
   "navigation.tracking",
   "search.highlight",
   # "toc.follow",
-  # "toc.integrate",
+  "toc.integrate",
 ]
 
 

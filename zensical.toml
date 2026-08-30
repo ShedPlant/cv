@@ -21,7 +21,8 @@ nav = [
 [project.theme]
 # variant = "classic"
 # custom_dir = "overrides"
-# favicon = "images/favicon.png"
+logo = "assets/shed.png"
+favicon = "assets/shed.png"
 language = "en"
 features = [
   "announce.dismiss",
@@ -52,10 +53,9 @@ features = [
   # "toc.integrate",
 ]
 
-# logo = "assets/logo.png"
 
-# [project.theme.icon]
-# logo = "lucide/smile"
+#[project.theme.icon]
+#logo = "lucide/smile"
 
 # [project.theme.font]
 # text = "Inter"

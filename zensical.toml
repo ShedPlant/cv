@@ -57,8 +57,8 @@ features = [
 #[project.theme.icon]
 #logo = "lucide/smile"
 
-# [project.theme.font]
-# text = "Inter"
+[project.theme.font]
+text = "Jetbrains Mono"
 # code = "Jetbrains Mono"
 
 [[project.theme.palette]]

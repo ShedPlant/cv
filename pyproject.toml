@@ -1,7 +1,7 @@
 [project]
 name = "cv"
 version = "0.1.0"
-description = "Add your description here"
+description = "Personal CV Website"
 readme = "README.md"
 authors = [
     { name = "ShedPlant", email = "ed@shedplant.net" }

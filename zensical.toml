@@ -6,8 +6,8 @@ site_author = "Edward Plant"
 
 copyright = "Copyright &copy; 2026 Edward Plant"
 
-repo_url = "https://github.com/ShedPlant"
-repo_name = "ShedPlant"
+#repo_url = "https://github.com/ShedPlant"
+#repo_name = "ShedPlant"
 # edit_uri = "edit/main/docs/"
 
 nav = [
@@ -78,13 +78,13 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/ShedPlant"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/mastodon"
-# link = "https://fosstodon.org/@user"
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/in/shedplant/"
 
 [project.markdown_extensions]
 abbr = {}

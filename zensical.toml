@@ -10,9 +10,12 @@ copyright = "Copyright &copy; 2026 Edward Plant"
 #repo_name = "ShedPlant"
 # edit_uri = "edit/main/docs/"
 
+# TODO delete zensical and markdown references
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+  { "Overview" = "index.md" },
+  { "Career History" = "career.md" },
+  { "Zensical Ref" = "zensical_reference.md" },
+  { "Markdown Ref" = "markdown.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]

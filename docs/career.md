@@ -24,8 +24,8 @@ I have been a cautious adopter of AI Coding Assistants, experiencing both benefi
 
 I use Claude Code and have found certain tasks solved impressively competently and quickly.
 
-However, when used by someone inexperienced or confused, who does not already know what the desired output looks like,
-it produces false confidence in something plausible-looking but subtly wrong.
+However, without the steering of an experienced operator,
+it produces false confidence in something plausible-looking but subtly wrong and usually overengineered.
 
 I see it as my responsibility to keep my codebase working, clean and coherent for future maintainers (human or AI).
 I don't accept AI as an excuse for ignoring best practices, avoiding critical thinking or accepting poor quality solutions.

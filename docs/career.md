@@ -52,6 +52,33 @@ Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a b
 - [ ] less experienced with JS UI/mobile development
 - [ ] less comfortable communicating directly with customers
 
+## Testimonials
+
+[Matthew Finding](https://www.linkedin.com/in/matthew-finding-95612475/), managed me:
+
+> Ed was brought to my attention as part of a project where he validated the suitability of a new product for use in real-world customer trading platform environments.  His attention to detail, thorough documentation of issues, and pragmatic approach to resolution of problems, quickly led to a fantastic working relationship with my team at the time.  This was before he worked for me directly and already had a solid reputation as a technical leader, which was backed up when I looked for references from his managers when recruiting him into my own group.
+>
+> Upon joining my team Ed had to embed himself as the new lead within an existing team, helping to implement new processes and practices as well as assisting with spearheading our latest automation initiative.  This was a challenging and no doubt daunting task but he did a fantastic job, not only giving his team a new purpose but ensuring that they were contributing effectively for the benefit of the wider engineering department.  To do so, he had quickly get himself and his team up to speed on several new technologies and tools, and gain a deeper, low-level, insight into the inner workings of our product set.  He very much rose to the challenge. 
+>
+> Ed is a really great team player, I really enjoyed working with him and was privileged to have him in my group - I knew I could assign work to his his team and be confident he would get it done, or feedback immediately where there were issues.  I always enjoyed our 1-2-1s; he would constantly challenge the status quo and any outdated practices, coming up with sensible and considered approaches to move the organisation forward.
+>
+> I would wholeheartedly recommend Ed to any organisation and am sure he would be a valuable member to any team. 
+
+[Francesca Wise](https://www.linkedin.com/in/francesca-wise-b96143128/), managed by me:
+
+> I have had the pleasure of working for Ed for the past 2 years. 
+>
+> Ed has really pushed me to exceed my own expectations and evolve my skillset. 
+> 
+> He has excelled at pushing his team to succeed and evolve. 
+> 
+> Since taking over the Platform Deployment team Ed has revolutionised the way the team works, pushing automation initiatives, questioning and refining procedures. 
+> 
+> He has an excellent wealth of knowledge and is always looking to apply that knowledge to help the team and company improve.
+> 
+> I have enjoyed working for Ed and would recommend him to any employer.
+
+
 
 
 ## Senior Software Architect @ Expend

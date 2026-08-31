@@ -134,7 +134,7 @@ Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a b
 
     I first focussed on making CIB/QA more automatically configured, more 'cattle' than 'pets'.
 
-    I wanted development teams to take responsibility and pride in their applications’ health and stability in CIB and QA.
+    I wanted development teams to take responsibility and pride in their applications' health and stability in CIB and QA.
 
     We improved visualisation of system health:
 

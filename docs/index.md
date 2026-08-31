@@ -4,7 +4,7 @@ icon: lucide/hand
 
 # Ed Plant :wave:
 
-![Profile Picture](assets/headshot.jpg) ![Colleagues](assets/colleagues.jpg)
+![Profile Picture](assets/headshot.png) ![Colleagues](assets/colleagues.jpg)
 
 ![Expend Card](assets/expend_card.jpg) ![Home Office](assets/desk.jpg)
 

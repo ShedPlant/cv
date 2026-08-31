@@ -33,7 +33,7 @@ Used well, it can accelerate individuals/teams.
 
 Adding more AI elsewhere in SDLC (e.g. to review AI-generated code) may help a bit but is not the whole solution.
 
-*This website itself was not written with any AI assistance.*
+*This website text was not written with any AI assistance.*
 
 
 ## Strengths and Self-Knowledge

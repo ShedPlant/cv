@@ -19,7 +19,7 @@ Technology Stack:
 - GitHub Actions CI/CD
 - Pulumi
 
-## AI Statement
+## My AI Opinion
 I have been a cautious adopter of AI Coding Assistants, experiencing both benefits and a new class of problems.
 
 I use Claude Code and have found certain tasks solved impressively competently and quickly.

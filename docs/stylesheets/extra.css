@@ -2,6 +2,71 @@
   font-size: inherit;
 }
 
+/* The theme sets page-break-inside: avoid on every admonition/details
+   block, so any block too tall for the remaining space on a page gets
+   pushed onto a fresh page instead of split, leaving blank gaps and
+   inflating the page count. Allow normal breaking when printing. */
+@media print {
+  .md-typeset .admonition,
+  .md-typeset details {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+}
+
+/* Short bullet lists (Technology Stack, the Expend scale summary)
+   still get full screen-reading spacing -- margin above/below the
+   list plus generous per-item line-height -- which is disproportionate
+   for a handful of short one-line items on a printed page. */
+@media print {
+  .md-typeset ul,
+  .md-typeset ol {
+    margin: 0.3em 0;
+  }
+
+  .md-typeset li {
+    margin-bottom: 0;
+  }
+}
+
+/* Chrome sets the `open` attribute itself when printing <details>
+   elements (so content isn't silently lost), which means by print
+   time a section that was always open and one that was closed are
+   indistinguishable via `[open]` -- so a rule keyed off that
+   attribute can't work. Use dedicated classes instead, applied in
+   the markdown, which Chrome's printing behaviour doesn't touch.
+
+   Add `print-collapse` as an extra admonition class to keep a
+   section's title visible in print but hide its body, e.g.:
+   ??? success print-collapse "Some Title" */
+@media print {
+  .print-collapse > *:not(summary) {
+    display: none !important;
+  }
+
+  /* A collapsed entry is just a title line once its body is hidden,
+     but it still pays the full admonition box tax (background,
+     border-radius, ~1.5 line-heights of margin) -- strip that so a
+     row of collapsed entries (e.g. Previous Roles) reads as a
+     compact list instead of a stack of padded boxes. */
+  .print-collapse {
+    margin: 0.15em 0 !important;
+    padding: 0 !important;
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
+
+/* Tag any block with `{: .print-hide }` (or wrap a section in
+   <div class="print-hide" markdown="1">...</div>, or add print-hide
+   as an extra admonition class) to omit it from print entirely. */
+@media print {
+  .print-hide {
+    display: none !important;
+  }
+}
+
 .md-typeset blockquote {
   color: inherit;
   font-style: italic;

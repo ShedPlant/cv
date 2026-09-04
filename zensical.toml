@@ -11,8 +11,7 @@ copyright = "Copyright &copy; 2026 Edward Plant"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Overview" = "index.md" },
-  { "Career" = "career.md" },
+  { "Career" = "index.md" },
 ]
 
 extra_css = ["stylesheets/extra.css"]

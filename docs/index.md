@@ -195,6 +195,7 @@ In the last five years I've improved Expend's developer experience, platform sta
 ??? success print-collapse "Introduced Pulumi Infrastructure as Code"
 
     **Problem**
+
     Cloud resources were maintained manually only by the CTO. No like-live test environment.
 
     **Solution**

@@ -211,7 +211,7 @@ In the last five years I've improved Expend's developer experience, platform sta
 
     Most legacy services have now been migrated to Pulumi and deployed to Staging.
 
-    This has made our environment more robust and scalable. Anyone in the team can make changes to cloud resources with confidence, and it's trivial to deploy new projects. Pulumi supports defining infrastructure in Python or Typescrt which makes adoption easier for developers without a DevOps background.
+    This has made our environment more robust and scalable. Anyone in the team can make changes to cloud resources with confidence, and it's trivial to deploy new projects. Pulumi supports defining infrastructure in Python or Typescript which makes adoption easier for developers without a DevOps background.
 
     In hindsight I should have trained the rest of the team how to import legacy infrastructure, as my time has become a bottleneck to progress on the initiative.
 

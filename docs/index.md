@@ -50,17 +50,17 @@ I haven't used fully agentic SDLC before and am concerned that an AI-only develo
 
 ## Strengths and Traits
 
-- [x] structured approach to problem solving
-- [x] meticulous attention to detail
-- [x] good recall of business and technical knowledge
-- [x] clarifies requirements from ambiguity, false assumptions and general confusion
+- [x] solve problems in a structured way
+- [x] analyse code and requirements with meticulous attention to detail
+- [x] recall business and technical knowledge from experience
+- [x] clarify requirements from ambiguity, false assumptions and general confusion
 - [x] investigate and resolve production incidents calmly and systematically
-- [x] drives change to improve technical foundations
-- [x] can coach juniors or manage a small team
-- [x] friendly and personable with colleagues
-- [x] knowledge sharing using diagrams, tables, documents and presentations
+- [x] drive change to improve technical foundations
+- [x] coach juniors and have managed a small team
+- [x] am friendly and personable with colleagues
+- [x] share knowledge using diagrams, tables, documents and presentations
 - [x] understand and improve legacy systems, pay down technical debt
-- [x] dislikes inter-personal conflict, yet stays professional
+- [x] dislike inter-personal conflict, yet stay professional
 
 ## Testimonials
 

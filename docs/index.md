@@ -62,11 +62,21 @@ I haven't used fully agentic SDLC before and am concerned that an AI-only develo
 - [x] understand and improve legacy systems, pay down technical debt
 - [x] dislike inter-personal conflict, yet stay professional
 
-## Testimonials
+## [Testimonials](https://www.linkedin.com/in/shedplant/details/recommendations/)
+
+[Javier Molina Sanz](https://www.linkedin.com/in/javier-molina-sanz-74aa89154/), Adyen Integration Expert:
+
+??? info print-collapse "Ed's attention to detail and efficiency are on a completely different level"
+
+    > I had the pleasure of working with Ed almost daily during the Adyen implementation at Expend, and he was exceptional to collaborate with.
+    >
+    > Ed's attention to detail and efficiency are on a completely different level.
+    >
+    > Beyond executing a seamless implementation, his constructive feedback on our documentation and developer experience was invaluable, setting the foundation for a very scalable integration
 
 [Matthew Finding](https://www.linkedin.com/in/matthew-finding-95612475/), managed me:
 
-??? info print-collapse "'he would constantly challenge the status quo and any outdated practices, coming up with sensible and considered approaches to move the organisation forward'"
+??? info print-collapse "He would constantly challenge the status quo and any outdated practices, coming up with sensible and considered approaches to move the organisation forward"
 
     > Ed was brought to my attention as part of a project where he validated the suitability of a new product for use in real-world customer trading platform environments. His attention to detail, thorough documentation of issues, and pragmatic approach to resolution of problems, quickly led to a fantastic working relationship with my team at the time. This was before he worked for me directly and already had a solid reputation as a technical leader, which was backed up when I looked for references from his managers when recruiting him into my own group.
     >
@@ -79,7 +89,7 @@ I haven't used fully agentic SDLC before and am concerned that an AI-only develo
 
 [Francesca Wise](https://www.linkedin.com/in/francesca-wise-b96143128/), managed by me:
 
-??? info print-collapse "'Since taking over the Platform Deployment team Ed has revolutionised the way the team works, pushing automation initiatives, questioning and refining procedures.'"
+??? info print-collapse "Since taking over the Platform Deployment team Ed has revolutionised the way the team works, pushing automation initiatives, questioning and refining procedures."
 
     > I have had the pleasure of working for Ed for the past 2 years. 
     >

@@ -64,6 +64,32 @@ I haven't used fully agentic SDLC before and am concerned that an AI-only develo
 
 ## [Testimonials](https://www.linkedin.com/in/shedplant/details/recommendations/)
 
+[Brett Scott](https://www.linkedin.com/in/brettmichaelscott/), managed me:
+
+??? info print-collapse "Ed brings a rare combination of deep technical expertise, engineering craftsmanship, curiosity, pragmatism and the ability to create clarity where others see complexity."
+
+    > I have had the pleasure of working with Ed as a Senior Software Engineer for five years, and he is one of the strongest engineers I have worked with.
+    >
+    >What stands out most about Ed is his thoroughness. He has an exceptional ability to take a complex, ambiguous or poorly understood area of a system, quickly get to grips with it, and turn confusion into clarity. He does this whether through thoughtful design documentation, architecture and technical discussions, or by getting into the code and refactoring it into something simpler and easier to understand.
+    >
+    >Technically, Ed is an expert Python developer with a deep understanding of software architecture, design and Infrastructure as Code. He is a true coding craftsman, with a strong appreciation for engineering quality and a particularly astute understanding of what a good "Definition of Done" looks like. He doesn’t just focus on making something work, he considers whether the solution is maintainable, well designed, appropriately tested and genuinely complete.
+    >
+    >He also makes a significant contribution beyond his individual coding contributions. He has helped establish engineering standards for the team and is a trusted voice when making technical decisions. He is respected by his colleagues and regularly influences the direction of engineering decisions through well-reasoned and pragmatic contributions.
+    >
+    >Ed thrives in ambiguity, which is particularly valuable in a complex product environment. He is able to retain and apply a significant amount of domain knowledge across a large and complicated system, and can make sense of unfamiliar areas remarkably quickly. His contribution to initiative kick-offs, discovery sessions, Three Amigos and pair programming is consistently thoughtful and productive, helping the team reach a shared understanding before moving into implementation.
+    >
+    >He also has an excellent attitude towards evolving software development practices. Rather than adopting new approaches for their own sake, he is willing to evaluate them critically and assess where they genuinely improve the way we work. His proactive and positive adoption of AI throughout the software development lifecycle is a great example of this.
+    >
+    >Ed is an excellent collaborator. He works effectively with engineers, product colleagues, non-technical stakeholders and external partners, and communicates complex technical ideas clearly to different audiences.
+    >
+    >Overall, Ed brings a rare combination of deep technical expertise, engineering craftsmanship, curiosity, pragmatism and the ability to create clarity where others see complexity. He is someone I trust to take ownership of difficult problems, challenge thinking constructively, and help raise the engineering standards of the people around him.
+
+[Filipe Fernandes](https://www.linkedin.com/in/filipef101/), team member:
+
+??? info print-collapse "low ego, keen sense on security, pragmatic and care about long term maintainability/scaling"
+
+    > Ed's a rare gem of an engineer, really enjoyed working with him. His low ego, keen sense on security, pragmatic and care about long term maintainability/scaling, make me think he's best backend engineer I've worked with.
+
 [Javier Molina Sanz](https://www.linkedin.com/in/javier-molina-sanz-74aa89154/), Adyen Integration Expert:
 
 ??? info print-collapse "Ed's attention to detail and efficiency are on a completely different level"
